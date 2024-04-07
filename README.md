@@ -6,13 +6,6 @@
 
 This tutorial is designed to guide you through creating a music player using various data structures. By the end, you'll understand how to apply these structures in a real-world Python application.
 
-### B. About the Instructor
-
-[Instructor's bio and background, highlighting experience in Python programming and data structures.]
-
-### C. Contact Information
-
-[Instructor's email, social media links, or other contact information.]
 
 ## II. LINKED LISTS
 
