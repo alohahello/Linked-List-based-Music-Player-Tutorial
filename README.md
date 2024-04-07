@@ -1,11 +1,11 @@
 # Linked List-based Music Player Tutorial
 
+
 ## I. WELCOME
 
 ### A. Introduction to the Music Player Tutorial
 
 This tutorial is designed to guide you through creating a music player using various data structures. By the end, you'll understand how to apply these structures in a real-world Python application.
-
 
 ## II. LINKED LISTS
 
